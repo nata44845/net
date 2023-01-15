@@ -1,0 +1,15 @@
+E:\Nata\GB-git\net\net1_hello\bin\Debug\net6.0\net1_hello.exe
+E:\Nata\GB-git\net\net1_hello\bin\Debug\net6.0\net1_hello.deps.json
+E:\Nata\GB-git\net\net1_hello\bin\Debug\net6.0\net1_hello.runtimeconfig.json
+E:\Nata\GB-git\net\net1_hello\bin\Debug\net6.0\net1_hello.dll
+E:\Nata\GB-git\net\net1_hello\bin\Debug\net6.0\net1_hello.pdb
+E:\Nata\GB-git\net\net1_hello\obj\Debug\net6.0\net1_hello.csproj.AssemblyReference.cache
+E:\Nata\GB-git\net\net1_hello\obj\Debug\net6.0\net1_hello.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nata\GB-git\net\net1_hello\obj\Debug\net6.0\net1_hello.AssemblyInfoInputs.cache
+E:\Nata\GB-git\net\net1_hello\obj\Debug\net6.0\net1_hello.AssemblyInfo.cs
+E:\Nata\GB-git\net\net1_hello\obj\Debug\net6.0\net1_hello.csproj.CoreCompileInputs.cache
+E:\Nata\GB-git\net\net1_hello\obj\Debug\net6.0\net1_hello.dll
+E:\Nata\GB-git\net\net1_hello\obj\Debug\net6.0\refint\net1_hello.dll
+E:\Nata\GB-git\net\net1_hello\obj\Debug\net6.0\net1_hello.pdb
+E:\Nata\GB-git\net\net1_hello\obj\Debug\net6.0\net1_hello.genruntimeconfig.cache
+E:\Nata\GB-git\net\net1_hello\obj\Debug\net6.0\ref\net1_hello.dll
