@@ -3,6 +3,5 @@ int num = int.Parse(Console.ReadLine());
 
 int sqr= num*num;
 
-Console.Write("Квадрат числа ");
-Console.WriteLine(sqr);
+Console.Write("Квадрат числа "+ sqr);
 
