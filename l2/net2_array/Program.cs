@@ -6,17 +6,18 @@
     return result;
 }
 
-int a1 = 38;
-int a2 = 56;
-int a3 = 45;
-int b1 = 63;
-int b2 = 28;
-int b3 = 61;
-int c1 = 53;
-int c2 = 76;
-int c3 = 22;
+int[] array = { 38, 56, 45, 63, 28, 61, 53, 76, 22 };
 
-int max = Max(Max(a1, a2, a3), Max(b1, b2, b3), Max(c1, c2, c3));
+
+
+int max = array[0];
+int i = 1;
+int n = array.Length;
+while (i < n)
+{
+    if (array[i] > max) max = array[i];
+    i = i + 1;
+}
 
 Console.Write("max = ");
 Console.WriteLine(max);
