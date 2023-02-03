@@ -55,8 +55,6 @@ int[,] array = GetArray2D(sizeM, sizeM, -9, 10);
 
 PrintArray2D(array);
 
-int sum=GetSumArray(array);
-
 Console.WriteLine($"Сумма по диагонали {GetSumArray(array)}");
 
 
